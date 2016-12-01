@@ -50,5 +50,5 @@ New members should create accounts for the following services:
 3. Slack (Aaron)
 4. Github (Aaron, Alicja)
 5. Bitbucket (Aaron, Alicja)
-6. Princeton Genomics (csgenome.princeton.edu)
+6. Princeton Genomics (csgenome@princeton.edu)
 
