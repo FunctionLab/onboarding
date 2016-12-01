@@ -7,10 +7,10 @@ Part of what allows us to make these fairly high-level predictions is integratin
 
 To get a flavor for these tasks, some good papers to start with include:
 
-* Understanding multicellular function and disease with human tissue-specific networks, *Nature Genetics*
-* Genome-wide prediction and functional characterization of the genetic basis of autism spectrum disorder, *Nature Neuroscience*
-* Predicting Effects of Noncoding Variants with Deep Learning-Based Sequence Model, *Nature Methods*
-* Targeted Exploration and Analysis of Large Cross-Platform Human Transcriptomic Compendia, *Nature Methods*
+* [Understanding multicellular function and disease with human tissue-specific networks](http://www.nature.com/ng/journal/v47/n6/full/ng.3259.html), *Nature Genetics*
+* [Genome-wide prediction and functional characterization of the genetic basis of autism spectrum disorder](http://www.nature.com/neuro/journal/v19/n11/full/nn.4353.html), *Nature Neuroscience*
+* [Predicting Effects of Noncoding Variants with Deep Learning-Based Sequence Model](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3547.html), *Nature Methods*
+* [Targeted Exploration and Analysis of Large Cross-Platform Human Transcriptomic Compendia](http://www.nature.com/nmeth/journal/v12/n3/full/nmeth.3249.html), *Nature Methods*
 
 ## Journal Club
 Journal clubs is (roughly) biweekly and immediately before lab meeting in Princeton from 12:00 pm - 1:00 pm. 
