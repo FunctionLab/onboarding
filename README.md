@@ -26,7 +26,7 @@ Our weekly lab meeting consists of:
   1. A one hour presentation with group discussion. Rotation schedule is pinned to #functional.
   2. A series of 30 minute mini group meetings that are project focused. 
  
-The lab meeting location alternates between Princeton and Flatiron (NYC). Meeting times and locations will be updated on the FunctionLab Google calendar.
+The lab meeting location alternates between Princeton and Flatiron (NYC). Meeting times and locations will be updated on the FunctionLab Google Calendar.
 
 ## Servers
 
