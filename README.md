@@ -39,7 +39,7 @@ Princeton genomics machine information can be found at the FunctionLab github wi
 
 New members should create accounts and be added to the FunctionLab group for the following services:
 
-1. Slack (contact: Aaron)
+1. Slack (contact: Aaron, Alicja, Vicky)
 2. Github (contacts: Aaron, Alicja)
 3. Bitbucket (contacts: Aaron, Alicja)
 
