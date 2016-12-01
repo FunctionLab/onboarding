@@ -45,9 +45,9 @@ New members should create accounts for the following services:
 2. Github (Aaron, Alicja)
 3. Bitbucket (Aaron, Alicja)
 
-## Genomics Account
+## Princeton Genomics Account
 
-If you don't have a Genomics account (typically if you are from CS), you will need to get one. Fill in this form:
+If you don't have a Genomics account (typically if you are from CS), you will need to get one. Fill out this form:
 http://genomics.princeton.edu/support/forms/account-form.html
 
 ## Mailing Lists
