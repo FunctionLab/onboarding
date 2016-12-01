@@ -64,4 +64,4 @@ To get on the mailing list, visit these sites and fill in your name and email ad
 
 ## Additional Topics
 
-[Bayesian Data Integration](http://functionlab.readthedocs.io/en/latest/bayesian-integration.html)
+* [Bayesian Data Integration](http://functionlab.readthedocs.io/en/latest/bayesian-integration.html)
