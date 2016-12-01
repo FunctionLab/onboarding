@@ -17,7 +17,7 @@ Journal clubs is (roughly) biweekly and immediately before lab meeting in Prince
 
 Meetings will roughly be divided into 30 min halves with the first 30 minutes for exploring recent papers and the second 30 minute half for the primary presentation. In the first half we will select two papers, one interesting paper that will be the main presentation for the next meeting and a second paper that we will skim and discuss further on the spot. We will primarily be using the FunctionLab citeulike (http://www.citeulike.org) for our pool of articles. If you aren’t already a member of FunctionLab on citeulike email Ruth your citeulike username and she will add you. Feel free to add any interesting papers you come across to the group. 
 
-Everyone is expected to lead discussion on a main paper at some point so check out the rotation spreadsheet (pinned to #journalclub on Slack) and sign up for your favorite date before someone else does. Dates are tentative and will adjust with lab meeting changes. 
+Everyone is expected to lead discussion on a main paper at some point so check out the rotation spreadsheet (pinned to #functional on Slack) and sign up for your favorite date before someone else does. Dates are tentative and will adjust with lab meeting changes. 
 
 Contacts: Ruth, Rachel
 
