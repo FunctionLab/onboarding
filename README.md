@@ -45,10 +45,20 @@ Princeton genomics machine information can be found here: [https://github.com/Fu
 
 New members should create accounts for the following services:
 
-1. Functionlab mailing list (Vicky)
-2. Functionlab calendar (Vicky)
-3. Slack (Aaron)
-4. Github (Aaron, Alicja)
-5. Bitbucket (Aaron, Alicja)
-6. Princeton Genomics (csgenome@genomics.princeton.edu)
+1. Slack (Aaron)
+2. Github (Aaron, Alicja)
+3. Bitbucket (Aaron, Alicja)
+
+## Mailing Lists
+
+We have 2 mailing lists.
+
+One is for current lab members ( functionlab@lists.cs.princeton.edu ) used for day-to-day issues such as lab meeting reminders.
+
+One is for all lab members ( functionlab-all@lists.cs.princeton.edu ), current and past, used very rarely for general announcements like reunions, new babies and other life changing events.
+
+To get on the mailing list, visit these sites and fill in your name and email address with a password. You will be put on both lists.
+
+https://lists.cs.princeton.edu/mailman/listinfo/functionlab
+https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
 
