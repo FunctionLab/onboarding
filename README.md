@@ -12,3 +12,39 @@ To get a flavor for these tasks, some good papers to start with include:
 * Understanding multicellular function and disease with human tissue-specific networks, *Nature Genetics*
 * Predicting Effects of Noncoding Variants with Deep Learning-Based Sequence Model, *Nature Methods*
 * Targeted Exploration and Analysis of Large Cross-Platform Human Transcriptomic Compendia, *Nature Methods*
+
+## Journal Club
+Journal clubs is (roughly) biweekly and immediately before lab meeting in Princeton from 12:00 pm - 1:00 pm. 
+
+Meetings will roughly be divided into 30 min halves with the first 30 minutes for exploring recent papers and the second 30 minute half for the primary presentation. In the first half we will select two papers, one interesting paper that will be the main presentation for the next meeting and a second paper that we will skim and discuss further on the spot. We will primarily be using the FunctionLab citeulike (http://www.citeulike.org) for our pool of articles. If you aren’t already a member of FunctionLab on citeulike email me your citeulike username and I will add you. Feel free to add any interesting papers you come across to the group. 
+
+Everyone is expected to lead discussion on a main paper at some point so check out the rotation spreadsheet below and sign up for your favorite date before someone else does. Dates are tentative and will adjust with lab meeting changes. 
+
+Contacts: Ruth Dannenfelser, Rachel Sealfon
+
+[Journal club rotation schedule](https://docs.google.com/spreadsheets/d/1Iq1I6GNif0YbaxLUM1r3cP0vg566IuAyvJzkyiX2mxo/edit?usp=sharing) 
+
+## Lab Meeting
+
+Our weekly lab meeting consists of:
+  1. A one hour presentation with group discussion. The rotation schedule for presenting can be found here: [schedule](https://docs.google.com/spreadsheets/d/1tjncbvn_cLsRXSXChTtOuwqSCGUjRJ9g8d6ufPDP4k0/edit#gid=0)
+  2. A series of 30 minute mini group meetings that are project focused. 
+ 
+The lab meeting location alternates between Princeton and Simons (NYC).
+
+[Lab meeting rotation schedule](https://docs.google.com/spreadsheets/d/1tjncbvn_cLsRXSXChTtOuwqSCGUjRJ9g8d6ufPDP4k0/edit#gid=0)
+
+## Servers
+
+
+## Accounts
+
+New members should create accounts for the following services from the respective contacts:
+
+1. Functionlab mailing list (Vicky)
+2. Functionlab calendar (Vicky)
+3. Slack (Aaron)
+4. Github (Aaron, Alicja)
+5. Bitbucket (Aaron, Alicja)
+6. Princeton Genomics (csgenome.princeton.edu)
+
