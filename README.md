@@ -22,17 +22,13 @@ Everyone is expected to lead discussion on a main paper at some point so check o
 
 Contacts: Ruth Dannenfelser, Rachel Sealfon
 
-[Journal club rotation schedule](https://docs.google.com/spreadsheets/d/1Iq1I6GNif0YbaxLUM1r3cP0vg566IuAyvJzkyiX2mxo/edit?usp=sharing) 
-
 ## Lab Meeting
 
 Our weekly lab meeting consists of:
-  1. A one hour presentation with group discussion. The rotation schedule for presenting can be found here: [schedule](https://docs.google.com/spreadsheets/d/1tjncbvn_cLsRXSXChTtOuwqSCGUjRJ9g8d6ufPDP4k0/edit#gid=0)
+  1. A one hour presentation with group discussion. 
   2. A series of 30 minute mini group meetings that are project focused. 
  
 The lab meeting location alternates between Princeton and Flatiron (NYC).
-
-[Lab meeting rotation schedule](https://docs.google.com/spreadsheets/d/1tjncbvn_cLsRXSXChTtOuwqSCGUjRJ9g8d6ufPDP4k0/edit#gid=0)
 
 ## Servers
 
