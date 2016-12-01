@@ -8,6 +8,7 @@ Part of what allows us to make these fairly high-level predictions is integratin
 To get a flavor for these tasks, some good papers to start with include:
 
 * Understanding multicellular function and disease with human tissue-specific networks, *Nature Genetics*
+* Genome-wide prediction and functional characterization of the genetic basis of autism spectrum disorder, *Nature Neuroscience*
 * Predicting Effects of Noncoding Variants with Deep Learning-Based Sequence Model, *Nature Methods*
 * Targeted Exploration and Analysis of Large Cross-Platform Human Transcriptomic Compendia, *Nature Methods*
 
