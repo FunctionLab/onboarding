@@ -55,6 +55,6 @@ One is for all lab members (functionlab-all@lists.cs.princeton.edu), current and
 
 To get on the mailing list, visit these sites and fill in your name and email address with a password. You will be put on both lists.
 
-https://lists.cs.princeton.edu/mailman/listinfo/functionlab
-https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
+* https://lists.cs.princeton.edu/mailman/listinfo/functionlab
+* https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
 
