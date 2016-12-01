@@ -63,3 +63,6 @@ To get on the mailing list, visit these sites and fill in your name and email ad
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
 
+## Bayesian Data Integration
+
+[Bayesian Data Integration](http://functionlab.readthedocs.io/en/latest/bayesian-integration.html)
