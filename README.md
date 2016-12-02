@@ -79,7 +79,7 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
   * [GitHub](https://github.com/)
   * [BitBucket](https://bitbucket.org/)
 * Bayesian Data Integration
-   * C++ library: [Sleipnir](http://libsleipnir.bitbucket.org/)
+   * Our C++ library: [Sleipnir](http://libsleipnir.bitbucket.org/)
 * Data exploration and visualization
   * IDE for R: [Rstudio](https://www.rstudio.com/)
   * R web applications: [Shiny](https://shiny.rstudio.com/)
