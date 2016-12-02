@@ -85,7 +85,7 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
   * [Shiny](https://shiny.rstudio.com/)
 * Web development
   * Backend
-    * Web framework: [Django](https://www.djangoproject.com/)
+    * Framework: [Django](https://www.djangoproject.com/)
     * REST API: [Django REST Framework](http://www.django-rest-framework.org/)
     * Database: [MySQL](https://www.mysql.com/)
     * Search
@@ -93,9 +93,10 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
       * [solr](http://lucene.apache.org/solr/)
       * [Haystack](http://haystacksearch.org/)
   * Frontend
-    * [D3.js](https://d3js.org/)
-    * [sigmajs](http://sigmajs.org/)
-    * [React](https://facebook.github.io/react/)
+    * Vizualization
+      * [D3.js](https://d3js.org/)
+      * [sigmajs](http://sigmajs.org/)
+    * JS Framework: [React](https://facebook.github.io/react/)
     * [Bootstrap](http://getbootstrap.com/)
 * Deployment
   * [docker](https://www.docker.com/)
