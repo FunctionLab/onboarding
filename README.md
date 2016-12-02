@@ -31,6 +31,8 @@ Our weekly lab meeting consists of:
  
 The lab meeting location alternates between Princeton and Flatiron (NYC). Meeting times and locations will be updated on the FunctionLab Google Calendar.
 
+Contact: Vicky
+
 ## Servers
 
 ### Princeton
@@ -54,7 +56,7 @@ http://genomics.princeton.edu/support/forms/account-form.html
 
 ## Mailing Lists
 
-We have two mailing lists:
+We have two mailing lists for lab communication:
 
 * One is for current lab members (functionlab@lists.cs.princeton.edu) used for day-to-day issues such as lab meeting reminders.
 
