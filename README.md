@@ -68,14 +68,16 @@ To subcribe a the mailing list, visit these sites and fill in your name and emai
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
 
 ## Software Technologies
+The Troyanskaya lab makes extensive use of the following technologies. New lab members should familiarize themselves with the tools that are most relevant to their projects.
+
 * Programming languages
   * R
   * Python
   * C++
   * Javascript
 * Source control
-  * GitHub
-  * BitBucket
+  * [GitHub](https://github.com/)
+  * [BitBucket](https://bitbucket.org/)
 * Bayesian Data Integration
    * [Sleipnir](http://libsleipnir.bitbucket.org/)
 * Data exploration and visualization
@@ -87,17 +89,17 @@ To subcribe a the mailing list, visit these sites and fill in your name and emai
     * REST API: [Django REST Framework](http://www.django-rest-framework.org/)
     * Database: [MySQL](https://www.mysql.com/)
     * Search
-      * elasticsearch
-      * solr
-      * Haystack
+      * [elasticsearch](https://www.elastic.co/)
+      * [solr](http://lucene.apache.org/solr/)
+      * [Haystack](http://haystacksearch.org/)
   * Frontend
     * [D3.js](https://d3js.org/)
     * [sigmajs](http://sigmajs.org/)
     * [React](https://facebook.github.io/react/)
-    * Bootstrap
+    * [Bootstrap](http://getbootstrap.com/)
 * Deployment
-  * Docker
-  * AWS
+  * [docker](https://www.docker.com/)
+  * [AWS](https://aws.amazon.com/)
 
 ## Additional Topics
 
