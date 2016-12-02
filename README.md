@@ -67,6 +67,38 @@ To subcribe a the mailing list, visit these sites and fill in your name and emai
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
 
+## Software Technologies
+* Programming languages
+  * R
+  * Python
+  * C++
+  * Javascript
+* Source control
+  * GitHub
+  * BitBucket
+* Bayesian Data Integration
+   * [Sleipnir](http://libsleipnir.bitbucket.org/)
+* Data exploration and visualization
+  * [Rstudio](https://www.rstudio.com/)
+  * [Shiny](https://shiny.rstudio.com/)
+* Web development
+  * Backend
+    * Web framework: [Django](https://www.djangoproject.com/)
+    * REST API: [Django REST Framework](http://www.django-rest-framework.org/)
+    * Database: [MySQL](https://www.mysql.com/)
+    * Search
+      * elasticsearch
+      * solr
+      * Haystack
+  * Frontend
+    * [D3.js](https://d3js.org/)
+    * [sigmajs](http://sigmajs.org/)
+    * [React](https://facebook.github.io/react/)
+    * Bootstrap
+* Deployment
+  * Docker
+  * AWS
+
 ## Additional Topics
 
 * [Bayesian Data Integration](http://functionlab.readthedocs.io/en/latest/bayesian-integration.html)
