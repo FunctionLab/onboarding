@@ -34,7 +34,7 @@ The lab meeting location alternates between Princeton and Flatiron (NYC). Meetin
 ## Servers
 
 ### Princeton
-Princeton genomics machine information can be found at the FunctionLab github wiki
+Princeton genomics machine information can be found at the FunctionLab GitHub wiki
 
 ### Flatiron
 
