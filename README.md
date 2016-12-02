@@ -96,7 +96,7 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
     * Vizualization
       * [D3.js](https://d3js.org/)
       * [sigmajs](http://sigmajs.org/)
-    * JS Framework: [React](https://facebook.github.io/react/)
+    * Javascript UI Framework: [React](https://facebook.github.io/react/)
     * [Bootstrap](http://getbootstrap.com/)
 * Deployment
   * [docker](https://www.docker.com/)
