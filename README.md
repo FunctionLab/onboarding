@@ -62,7 +62,7 @@ We have two mailing lists for lab communication:
 
 * One is for all lab members (functionlab-all@lists.cs.princeton.edu), current and past, used very rarely for general announcements like reunions, new babies and other life changing events.
 
-To subcribe a the mailing list, visit these sites and fill in your name and email address with a password. You will be put on both lists.
+To subcribe a the mailing list, visit these sites and fill in your name and email address with a password (note that the password is sometimes sent out as a plaintext email reminder, so don't use anything you use for other important things). You will be put on both lists.
 
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
