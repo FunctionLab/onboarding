@@ -54,13 +54,13 @@ http://genomics.princeton.edu/support/forms/account-form.html
 
 ## Mailing Lists
 
-We have 2 mailing lists.
+We have two mailing lists:
 
-One is for current lab members (functionlab@lists.cs.princeton.edu) used for day-to-day issues such as lab meeting reminders.
+* One is for current lab members (functionlab@lists.cs.princeton.edu) used for day-to-day issues such as lab meeting reminders.
 
-One is for all lab members (functionlab-all@lists.cs.princeton.edu), current and past, used very rarely for general announcements like reunions, new babies and other life changing events.
+* One is for all lab members (functionlab-all@lists.cs.princeton.edu), current and past, used very rarely for general announcements like reunions, new babies and other life changing events.
 
-To get on the mailing list, visit these sites and fill in your name and email address with a password. You will be put on both lists.
+To subcribe a the mailing list, visit these sites and fill in your name and email address with a password. You will be put on both lists.
 
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
