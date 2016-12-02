@@ -81,8 +81,9 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
 * Bayesian Data Integration
    * [Sleipnir](http://libsleipnir.bitbucket.org/)
 * Data exploration and visualization
-  * [Rstudio](https://www.rstudio.com/)
-  * [Shiny](https://shiny.rstudio.com/)
+  * IDE for R: [Rstudio](https://www.rstudio.com/)
+  * R web applications: [Shiny](https://shiny.rstudio.com/)
+  * Interactive Python: [IPython/Jupyter](https://ipython.org/)
 * Web development
   * Backend
     * Framework: [Django](https://www.djangoproject.com/)
