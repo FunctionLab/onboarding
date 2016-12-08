@@ -23,6 +23,15 @@ Everyone is expected to lead discussion on a main paper at some point so check o
 
 Contacts: Ruth, Rachel
 
+## Primer
+Primers are (roughly) biweekly and immediately before lab meeting at Simons from 12:00 pm - 1:00 pm. 
+
+These meetings are a chance for people to present on a topic of interest (e.g., single-cell sequencing, kidney disease).
+
+The primer rotation is in the rotation spreadsheet (pinned to #functional on Slack).
+
+Contacts: Ruth, Rachel
+
 ## Lab Meeting
 
 Our weekly lab meeting consists of:
