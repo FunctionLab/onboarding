@@ -57,6 +57,7 @@ New members should create accounts and be added to the FunctionLab group for the
 1. Slack (contacts: Aaron, Alicja, Vicky)
 2. Github (contacts: Aaron, Alicja)
 3. Bitbucket (contacts: Aaron, Alicja)
+4. Dropbox (contacts: Aaron, Vicky)
 
 ## Princeton Genomics Account
 
