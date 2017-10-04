@@ -15,7 +15,7 @@ To get a flavor for these tasks, some good papers to start with include:
 Additionally, the introduction section of Curtis Huttenhower's Ph.D. [thesis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwjf0Yni-dXQAhUg24MKHTxRCLsQFgg1MAQ&url=ftp%3A%2F%2Fftp.cs.princeton.edu%2Freports%2F2008%2F841.pdf&usg=AFQjCNGg8uj4I5M4W3j-8IwNS7JSKuEIFA&sig2=y5yUx8Th7Lqa2AnsOj0hlw) is an excellent (and thorough) primer on functional genomics and related algorithms.
 
 ## Journal Club
-Journal clubs is (roughly) biweekly and immediately before lab meeting in Princeton from 12:00 pm - 1:00 pm. 
+Journal clubs is (roughly) biweekly and immediately before lab meeting at Simons/Flatiron from 12:00 pm - 1:00 pm. 
 
 Meetings will roughly be divided into 30 min halves with the first 30 minutes for exploring recent papers and the second 30 minute half for the primary presentation. In the first half we will select two papers, one interesting paper that will be the main presentation for the next meeting and a second paper that we will skim and discuss further on the spot. We will primarily be using the FunctionLab citeulike (http://www.citeulike.org) for our pool of articles. If you aren’t already a member of FunctionLab on citeulike email Ruth your citeulike username and she will add you. Feel free to add any interesting papers you come across to the group. 
 
@@ -24,7 +24,7 @@ Everyone is expected to lead discussion on a main paper at some point so check o
 Contacts: Ruth, Rachel
 
 ## Primer
-Primers are (roughly) biweekly and immediately before lab meeting at Simons from 12:00 pm - 1:00 pm. 
+Primers are (roughly) biweekly and immediately before lab meeting at Princeton from 12:00 pm - 1:00 pm. 
 
 These meetings are a chance for people to present on a topic of interest (e.g., single-cell sequencing, kidney disease).
 
