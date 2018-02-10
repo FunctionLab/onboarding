@@ -14,8 +14,18 @@ To get a flavor for these tasks, some good papers to start with include:
 
 Additionally, the introduction section of Curtis Huttenhower's Ph.D. [thesis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwjf0Yni-dXQAhUg24MKHTxRCLsQFgg1MAQ&url=ftp%3A%2F%2Fftp.cs.princeton.edu%2Freports%2F2008%2F841.pdf&usg=AFQjCNGg8uj4I5M4W3j-8IwNS7JSKuEIFA&sig2=y5yUx8Th7Lqa2AnsOj0hlw) is an excellent (and thorough) primer on functional genomics and related algorithms.
 
+## Lab Meeting
+
+Our weekly lab meeting consists of:
+  1. A slightly more formal one hour presentation (typically with slides, a general project intro, etc.) with group discussion. The rotation schedule is pinned to #functional on Slack.
+  2. A series of 30 minute mini group meetings that are project focused (typically quick updates on project progress, challenges, etc.). 
+ 
+The lab meeting location alternates between Princeton and Flatiron (NYC). Meeting times and locations will be updated on the FunctionLab Google Calendar.
+
+Contact: Vicky
+
 ## Journal Club / Primer
-Journal clubs / primers are usually immediately before/after lab meeting. 
+Journal clubs / primers are usually immediately before / after lab meeting. 
 
 These meetings are a chance for people to present on either a recent paper or a topic of interest, either biological or technical (e.g., single-cell sequencing, kidney disease, deep learning, coding standards, new packages that may be of use to others).
 
@@ -25,16 +35,15 @@ The rotation is in the journal club / primer rotation spreadsheet (pinned to #fu
 
 Contacts: Ruth, Rachel
 
+## Individual meetings with Olga
 
-## Lab Meeting
-
-Our weekly lab meeting consists of:
-  1. A one hour presentation with group discussion. The rotation schedule is pinned to #functional on Slack.
-  2. A series of 30 minute mini group meetings that are project focused. 
- 
-The lab meeting location alternates between Princeton and Flatiron (NYC). Meeting times and locations will be updated on the FunctionLab Google Calendar.
+These 15-minute individual meetings are typically on the same day as lab meeting. Usually, Princeton folks have their meetings when lab meeting is at Flatiron and vice versa for Simons folks. Meeting details will be updated on the FunctionLab Google Calendar.
 
 Contact: Vicky
+
+## Olga office hours
+
+Olga's office hours are usually before lab meeting. Lab members who would like to meet with Olga in between / in addition to their individual meetings can book a time slot under "Olga office hours" in the Google Calendar (anywhere from 10-30 minutes, please be prudent when filling in times). Please be sure to finish booking slots at least 24 hrs prior to the beginning of office hours.
 
 ## Servers
 
@@ -52,6 +61,7 @@ New members should create accounts and be added to the FunctionLab group for the
 2. Github (contacts: Aaron, Alicja)
 3. Bitbucket (contacts: Aaron, Alicja)
 4. Dropbox (contacts: Aaron, Vicky)
+5. Google calendar (contacts: Vicky)
 
 ## Princeton Genomics Account
 
