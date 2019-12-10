@@ -22,10 +22,9 @@ Our weekly lab meeting consists of:
  
 The lab meeting location alternates between Princeton and Flatiron (NYC). Meeting times and locations will be updated on the FunctionLab Google Calendar.
 
-Contact: Vicky
 
 ## Journal Club / Primer
-Journal clubs / primers are usually immediately before / after lab meeting. 
+Journal clubs / primers are usually immediately before / after lab meeting. (Currently on hiatus) 
 
 These meetings are a chance for people to present on either a recent paper or a topic of interest, either biological or technical (e.g., single-cell sequencing, kidney disease, deep learning, coding standards, new packages that may be of use to others).
 
@@ -39,12 +38,6 @@ Contacts: Ruth, Rachel
 
 These 15-minute individual meetings are typically on the same day as lab meeting. Usually, Princeton folks have their meetings when lab meeting is at Flatiron and vice versa for Simons folks. Meeting details will be updated on the FunctionLab Google Calendar.
 
-Contact: Vicky
-
-## Olga office hours
-
-Olga's office hours are usually before lab meeting. Lab members who would like to meet with Olga in between / in addition to their individual meetings can book a time slot under "Olga office hours" in the Google Calendar (anywhere from 10-30 minutes, please be prudent when filling in times). Please be sure to finish booking slots at least 24 hrs prior to the beginning of office hours.
-
 ## Servers
 
 ### Princeton
@@ -57,15 +50,15 @@ Flatiron/Simons server information can be found on the internal wiki.
 
 New members should create accounts and be added to the FunctionLab group for the following services:
 
-1. Slack (contacts: Aaron, Alicja, Vicky)
-2. Github (contacts: Aaron, Alicja)
-3. Bitbucket (contacts: Aaron, Alicja)
-4. Dropbox (contacts: Aaron, Vicky)
-5. Google calendar (contacts: Vicky)
+1. Slack
+2. Github
+3. Google calendar
+
+Contacts: Aaron, Alicja
 
 ## Princeton Genomics Account
 
-If you don't have a Genomics account (typically if you are from CS), you will need to get one. Fill out this form:
+If you don't have a Genomics account (typically if you are from CS), you will need to get one if you plan to use genomics resources. Fill out this form:
 http://genomics.princeton.edu/support/forms/account-form.html
 
 ## Mailing Lists
