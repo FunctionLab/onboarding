@@ -36,7 +36,7 @@ Contacts: Ruth, Rachel
 
 ## Individual meetings with Olga
 
-These 15-minute individual meetings are typically on the same day as lab meeting. Usually, Princeton folks have their meetings when lab meeting is at Flatiron and vice versa for Simons folks. Meeting details will be updated on the FunctionLab Google Calendar.
+These 15-minute individual meetings are typically on the same day as lab meeting. Usually, Princeton folks have their meetings when lab meeting is at Flatiron and vice versa for Simons folks. Meeting details will be updated on the [FunctionLab Google Calendar](https://calendar.google.com/calendar/embed?src=a0qlpr9koc8a3rgl6opq97hbl0%40group.calendar.google.com&ctz=America%2FNew_York).
 
 ## Servers
 
@@ -52,7 +52,7 @@ New members should create accounts and be added to the FunctionLab group for the
 
 1. Slack (http://functionlab.slack.com)
 2. Github (https://github.com/FunctionLab/)
-3. Google calendar
+3. [Google calendar](https://calendar.google.com/calendar/embed?src=a0qlpr9koc8a3rgl6opq97hbl0%40group.calendar.google.com&ctz=America%2FNew_York)
 
 Contacts: Aaron, Alicja
 
