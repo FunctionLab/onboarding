@@ -24,7 +24,7 @@ The lab meeting location alternates between Princeton and Flatiron (NYC). Meetin
 
 
 ## Journal Club / Primer
-Journal clubs / primers are usually immediately before / after lab meeting. (Currently on hiatus) 
+Journal clubs / primers are usually immediately before / after lab meeting. (**Currently on hiatus**) 
 
 These meetings are a chance for people to present on either a recent paper or a topic of interest, either biological or technical (e.g., single-cell sequencing, kidney disease, deep learning, coding standards, new packages that may be of use to others).
 
@@ -50,8 +50,8 @@ Flatiron/Simons server information can be found on the internal wiki.
 
 New members should create accounts and be added to the FunctionLab group for the following services:
 
-1. Slack
-2. Github
+1. Slack (http://functionlab.slack.com)
+2. Github (https://github.com/FunctionLab/)
 3. Google calendar
 
 Contacts: Aaron, Alicja
