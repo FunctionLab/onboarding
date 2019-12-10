@@ -50,8 +50,8 @@ Flatiron/Simons server information can be found on the internal wiki.
 
 New members should create accounts and be added to the FunctionLab group for the following services:
 
-1. Slack (http://functionlab.slack.com)
-2. Github (https://github.com/FunctionLab/)
+1. [Slack](http://functionlab.slack.com)
+2. [Github](https://github.com/FunctionLab/)
 3. [Google calendar](https://calendar.google.com/calendar/embed?src=a0qlpr9koc8a3rgl6opq97hbl0%40group.calendar.google.com&ctz=America%2FNew_York)
 
 Contacts: Aaron, Alicja
