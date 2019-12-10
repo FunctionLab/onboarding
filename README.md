@@ -63,16 +63,9 @@ http://genomics.princeton.edu/support/forms/account-form.html
 
 ## Mailing Lists
 
-We have two mailing lists for lab communication:
-
-* One is for current lab members (functionlab@lists.cs.princeton.edu) used for day-to-day issues such as lab meeting reminders.
-
-* One is for all lab members (functionlab-all@lists.cs.princeton.edu), current and past, used very rarely for general announcements like reunions, new babies and other life changing events.
-
-To subcribe a the mailing list, visit these sites and fill in your name and email address with a password (note that the password is sometimes sent out as a plaintext email reminder, so don't use anything you use for other important things). You will be put on both lists.
+We have a mailing list for lab communication. To subcribe, visit this site and fill in your name and email address with a password (note that the password is sometimes sent out as a plaintext email reminder, so don't use anything you use for other important things).
 
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab
-* https://lists.cs.princeton.edu/mailman/listinfo/functionlab-all
 
 ## Software Technologies
 The Troyanskaya lab makes extensive use of the following technologies. New lab members should familiarize themselves with the tools that are most relevant to their projects.
