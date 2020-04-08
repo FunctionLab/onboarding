@@ -59,7 +59,7 @@ Contacts: Aaron, Alicja
 ## Princeton Genomics Account
 
 If you don't have a Genomics account (typically if you are from CS), you will need to get one if you plan to use genomics resources. Fill out this form:
-http://genomics.princeton.edu/support/forms/account-form.html
+https://frevvo-prod.princeton.edu/frevvo/web/tn/pu.nplc/u/fa933f95-a5f1-4acc-988a-389be9c87b5d/app/_MS6fUDoEEemXbYTKx6ZLAw/formtype/_EyExYK-zEemF2ZSr_5kKrQ/popupform
 
 ## Mailing Lists
 
