@@ -12,7 +12,7 @@ To get a flavor for these tasks, some good papers to start with include:
 * [Predicting Effects of Noncoding Variants with Deep Learning-Based Sequence Model](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3547.html), *Nature Methods*
 * [Targeted Exploration and Analysis of Large Cross-Platform Human Transcriptomic Compendia](http://www.nature.com/nmeth/journal/v12/n3/full/nmeth.3249.html), *Nature Methods*
 
-Additionally, the introduction section of Curtis Huttenhower's Ph.D. [thesis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwjf0Yni-dXQAhUg24MKHTxRCLsQFgg1MAQ&url=ftp%3A%2F%2Fftp.cs.princeton.edu%2Freports%2F2008%2F841.pdf&usg=AFQjCNGg8uj4I5M4W3j-8IwNS7JSKuEIFA&sig2=y5yUx8Th7Lqa2AnsOj0hlw) is an excellent (and thorough) primer on functional genomics and related algorithms.
+Additionally, the introduction section of Curtis Huttenhower's Ph.D. [thesis](https://www.cs.princeton.edu/techreports/2008/841.pdf) is an excellent (and thorough) primer on functional genomics and related algorithms.
 
 ## Lab Meeting
 
