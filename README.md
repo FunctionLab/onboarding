@@ -18,9 +18,20 @@ Additionally, the introduction section of Curtis Huttenhower's Ph.D. [thesis](ht
 
 Our weekly lab meeting consists of:
   1. A slightly more formal one hour presentation (typically with slides, a general project intro, etc.) with group discussion. The rotation schedule is pinned to #functional on Slack.
-  2. A series of 30 minute mini group meetings that are project focused (typically quick updates on project progress, challenges, etc.). 
+  2. A 60 minute mini-group meeting where lab members can get feedback on projects (typically quick updates on project progress, challenges, etc.). See below for guidelines.
  
 The lab meeting location alternates between Princeton and Flatiron (NYC). Meeting times and locations will be updated on the FunctionLab Google Calendar.
+
+
+### Mini-group Meeting
+ 1. Before group meeting, all trainees (grad students & post-docs) will post no more than 4 bullet points on Slack describing what they’ve worked on since the last meeting.
+    * No paragraphs, no more than 4 bullets!
+    * Feedback is not expected on these posts, but if you have something to mention feel free to reply in a thread directly to the post
+ 2. Mini-group time is only for items you need feedback on from the group. Please avoid lengthy lists of things you did that week.
+    * A typical update should only be a few minutes
+    * If you need more group feedback, time will be capped at 10min per person
+    * If you only need Olga’s feedback, make sure you have a 1-on-1 meeting scheduled
+ 3. Group meeting will be capped at 2 hours. Lab members who didn’t get a chance to speak will be able to the following week.
 
 
 ## Journal Club / Primer
