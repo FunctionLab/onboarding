@@ -88,7 +88,6 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
   * Javascript
 * Source control
   * [GitHub](https://github.com/)
-  * [BitBucket](https://bitbucket.org/)
 * Bayesian Data Integration
    * Our C++ library: [Sleipnir](http://libsleipnir.bitbucket.org/)
 * Data exploration and visualization
