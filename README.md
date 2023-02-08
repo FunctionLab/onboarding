@@ -132,7 +132,7 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
 * [DeepSEA](https://humanbase.readthedocs.io/en/latest/beluga.html): A deep learning-based algorithmic framework for predicting the chromatin effects of sequence alterations with single nucleotide sensitivity. DeepSEA can accurately predict the epigenetic state of a sequence, including transcription factors binding, DNase I sensitivities and histone marks in multiple cell types, and further utilize this capability to predict the chromatin effects of sequence variants and prioritize regulatory variants.
   * [Beluga](https://doi.org/10.1038/s41588-018-0160-6): The 2019 version of DeepSEA can predict 2002 chromatin features.
   * [DeepSEA - original](https://doi.org/10.1038/nmeth.3547): The original, 2015, version of DeepSEA that can predict 919 chromatin features. 
-  * Point of Contact in Lab: Chandra Theesfeld
+  * Point of Contact in Lab: Kathy Chen (developer of the related Sei), Ksenia Sokolova (uses Beluga in CLEVER), Chandra Theesfeld (frequent user)
 * Variant Effect Prediction (VEP): The difference between the the predicted probability of the reference allele and the alternative allele for a regulatory feature (P𝑎𝑙𝑡−P𝑟𝑒𝑓).
 * Tissue-Specific Functional Networks: These tissue-networks are constructed using a Bayesian probabilistic framework based on the prior biological information contained within a massive compendium of omics datasets (e.g., gene co-expression, transcription factor binding, and protein-protein interactions)
   * [GIANT Version 1](https://www.nature.com/articles/ng.3259)
