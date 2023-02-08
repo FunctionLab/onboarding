@@ -137,6 +137,7 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
 * Tissue-Specific Functional Networks: These tissue-networks are constructed using a Bayesian probabilistic framework based on the prior biological information contained within a massive compendium of omics datasets (e.g., gene co-expression, transcription factor binding, and protein-protein interactions)
   * [GIANT Version 1](https://www.nature.com/articles/ng.3259)
   * [GIANT Version 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030827/)
+  * Point of Contact in Lab: Zhicheng Pan, Aaron Wong (developer)
 * [Module detection](https://humanbase.readthedocs.io/en/latest/modules.html): Community detection to find cohesive gene clusters from a provided gene list and a selected relevant tissue. Genes within a cluster share local network neighborhoods and together form a cohesive, specific functional module. Module detection enables systematic association of genes - even functionally uncharacterized genes - to specific processes and phenotypes represented in the detected modules. Functional modules are identified with tissue-specific functional networks, which predict gene interactions from massive data collections. Thus the discovered modules potentially capture higher-order tissue-specific function.
 
 
