@@ -120,7 +120,7 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
 
 ## Glossary of Lab Terms
 * [Magical](https://www.medrxiv.org/content/10.1101/2022.12.06.22282077v1): A hierarchical Bayesian approach that leverages paired scRNA-seq and scATAC-seq data from different conditions to map disease-associated transcription factors, chromatin sites, and genes as regulatory circuits. Resolving chromatin remodeling-linked gene expression changes at cell type resolution is important for understanding disease states. By simultaneously modeling signal variation across cells and conditions in both omics data types, MAGICAL achieves high accuracy on circuit inference. 
-  * Point of Contact in Lab: Xi Chen
+  * Point of Contact in Lab: Xi Chen (developer)
 * [Seqweaver](https://www.nature.com/articles/s41588-019-0420-0): A deep learning-based algorithmic framework for predicting the RNA-binding protein dysregulation effects of sequence alterations with single nucleotide sensitivity.
   * Point of Contact in Lab: Chris Park (developer), Tess Marvin (frequent user), Aviya Litman (frequent user)
 * [Expecto](https://www.nature.com/articles/s41588-018-0160-6): a framework for ab initio sequence-based prediction of mutation gene expression effects and disease risks at tissue-specific level. 
