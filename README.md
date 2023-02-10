@@ -9,8 +9,8 @@ To get a flavor for these tasks, some good papers to start with include:
 
 * [Understanding multicellular function and disease with human tissue-specific networks](http://www.nature.com/ng/journal/v47/n6/full/ng.3259.html), *Nature Genetics*
 * [Genome-wide prediction and functional characterization of the genetic basis of autism spectrum disorder](http://www.nature.com/neuro/journal/v19/n11/full/nn.4353.html), *Nature Neuroscience*
-* [Predicting Effects of Noncoding Variants with Deep Learning-Based Sequence Model](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3547.html), *Nature Methods*
-* [Targeted Exploration and Analysis of Large Cross-Platform Human Transcriptomic Compendia](http://www.nature.com/nmeth/journal/v12/n3/full/nmeth.3249.html), *Nature Methods*
+* [Predicting effects of noncoding variants with deep learning–based sequence model](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3547.html), *Nature Methods*
+* [Targeted exploration and analysis of large cross-platform human transcriptomic compendia](http://www.nature.com/nmeth/journal/v12/n3/full/nmeth.3249.html), *Nature Methods*
 
 Additionally, the introduction section of Curtis Huttenhower's Ph.D. [thesis](https://www.cs.princeton.edu/techreports/2008/841.pdf) is an excellent (and thorough) primer on functional genomics and related algorithms.
 
@@ -43,7 +43,7 @@ Everyone is expected to lead discussion at some point so check out the rotation 
 
 The rotation is in the journal club / primer rotation spreadsheet (pinned to #functional on Slack).
 
-Contacts: Ruth, Rachel
+Contacts: Rachel
 
 ## Individual meetings with Olga
 
@@ -52,7 +52,7 @@ These 15-minute individual meetings are typically on the same day as lab meeting
 ## Servers
 
 ### Princeton
-Princeton genomics machine information can be found at the FunctionLab GitHub wiki (https://github.com/FunctionLab/function-docs/wiki).
+Princeton genomics machine information can be found on the FunctionLab GitHub wiki (https://github.com/FunctionLab/function-docs/wiki).
 
 ### Flatiron
 Flatiron/Simons server information can be found on the internal wiki.
@@ -63,7 +63,7 @@ New members should create accounts and be added to the FunctionLab group for the
 
 1. [Slack](http://functionlab.slack.com)
 2. [Github](https://github.com/FunctionLab/)
-3. [Google calendar](https://calendar.google.com/calendar/embed?src=a0qlpr9koc8a3rgl6opq97hbl0%40group.calendar.google.com&ctz=America%2FNew_York)
+3. [Google Calendar](https://calendar.google.com/calendar/embed?src=a0qlpr9koc8a3rgl6opq97hbl0%40group.calendar.google.com&ctz=America%2FNew_York)
 
 Contacts: Aaron, Alicja
 
