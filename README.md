@@ -65,14 +65,15 @@ New members should create accounts and be added to the FunctionLab group for the
 2. [Github](https://github.com/FunctionLab/)
 3. [Google Calendar](https://calendar.google.com/calendar/embed?src=a0qlpr9koc8a3rgl6opq97hbl0%40group.calendar.google.com&ctz=America%2FNew_York)
 
-Contacts: Alicja (atadych@princeton.edu), Rachel (rsealfon@flatironinstitute.org), Natalie 
+Contacts:  [Alicja](mailto:atadych@princeton.edu) , [Rachel](rsealfon@flatironinstitute.org), [Natalie](nsauerwald@flatironinstitute.org)
+ 
 
 ## Princeton Genomics Account
 
 If you don't have a Genomics account (typically if you are from CS), you will need to get one if you plan to use genomics resources. Fill out this form:
 https://frevvo-prod.princeton.edu/frevvo/web/tn/pu.nplc/u/fa933f95-a5f1-4acc-988a-389be9c87b5d/app/_MS6fUDoEEemXbYTKx6ZLAw/formtype/_EyExYK-zEemF2ZSr_5kKrQ/popupform
 
-If you need access to any functionlab servers, please touch base with (Alicja)[mailto:atadych@princeton.edu)
+If you need access to any functionlab servers, please touch base with [Alicja](mailto:atadych@princeton.edu)
 
 ## Mailing Lists
 
