@@ -52,7 +52,7 @@ These 15-minute individual meetings are typically on the same day as lab meeting
 ## Servers
 
 ### Princeton
-Princeton genomics machine information can be found on the [FunctionLab GitHub wiki] (https://github.com/FunctionLab/function-docs/wiki).
+Princeton genomics machine information can be found on the [FunctionLab GitHub wiki](https://github.com/FunctionLab/function-docs/wiki).
 
 ### Flatiron
 Flatiron/Simons server information can be found on the internal wiki.
