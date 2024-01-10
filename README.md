@@ -74,7 +74,7 @@ If you don't have a Genomics (LSI) account (typically if you are from CS), you w
 https://frevvo-prod.princeton.edu/frevvo/web/tn/pu.nplc/u/fa933f95-a5f1-4acc-988a-389be9c87b5d/app/_MS6fUDoEEemXbYTKx6ZLAw/formtype/_EyExYK-zEemF2ZSr_5kKrQ/popupform
 You don't need to it again if you already have an account from a past rotation.
 
-If you need access to any functionlab servers, please touch base with [Alicja](mailto:atadych@princeton.edu)
+If you have questions regarding the form or if you need access to any functionlab servers, please touch base with [Alicja](mailto:atadych@princeton.edu), Slack: atadych
 
 ## Mailing Lists
 
