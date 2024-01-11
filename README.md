@@ -72,7 +72,9 @@ Contacts:  [Alicja](mailto:atadych@princeton.edu) , [Rachel](mailto:rsealfon@fla
 
 If you don't have a Genomics (LSI) account (typically if you are from CS), you will need to get one if you plan to use genomics resources. Fill out this form:
 https://frevvo-prod.princeton.edu/frevvo/web/tn/pu.nplc/u/fa933f95-a5f1-4acc-988a-389be9c87b5d/app/_MS6fUDoEEemXbYTKx6ZLAw/formtype/_EyExYK-zEemF2ZSr_5kKrQ/popupform
-You don't need to it again if you already have an account from a past rotation.
+You don't need to it again if you already have an account from a past rotation. This account will allow you LSI genomics cluster (`argo`)
+
+If you need access to functionlab servers, then you need to be added separately. 
 
 If you have questions regarding the form or if you need access to any functionlab servers, please touch base with [Alicja](mailto:atadych@princeton.edu), Slack: atadych
 
