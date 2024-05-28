@@ -35,15 +35,13 @@ The lab meeting location alternates between Princeton and Flatiron (NYC). Meetin
 
 
 ## Journal Club / Primer
-Journal clubs / primers are usually immediately before / after lab meeting. (**Currently on hiatus**) 
+Journal clubs / primers are scheduled separately. Please check the calendar when the next one is scheduled.
 
 These meetings are a chance for people to present on either a recent paper or a topic of interest, either biological or technical (e.g., single-cell sequencing, kidney disease, deep learning, coding standards, new packages that may be of use to others).
 
-Everyone is expected to lead discussion at some point so check out the rotation spreadsheet (pinned to #functional on Slack) and sign up for your favorite date before someone else does. Dates are tentative and will adjust with lab meeting changes. 
+Everyone is expected to lead discussion at some point so please check with one of the contacts when you can present.
 
-The rotation is in the journal club / primer rotation spreadsheet (pinned to #functional on Slack).
-
-Contacts: Rachel
+Contacts: Aviya, Ksenia, Tess and Yun
 
 ## Individual meetings with Olga
 
