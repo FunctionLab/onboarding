@@ -82,6 +82,11 @@ We have a mailing list for lab communication. To subcribe, visit this site and f
 
 * https://lists.cs.princeton.edu/mailman/listinfo/functionlab
 
+## Trainings
+* CITI IRB Biomedical Research Investigators? - [RIA page](https://ria.princeton.edu/Human-Research/Training)
+* UK BioBank - Researcher Induction Course 1: Introduction to using UK Biobank (45 min), Researcher Induction Course 2: Introduction to the UKB-RAP (1 hour) and UK’s Medical Research Council (MRC) online course on Research, GDPR & Confidentiality
+* All of US Research Program - ethics training on their website 
+
 ## Software Technologies
 The Troyanskaya lab makes extensive use of the following technologies. New lab members should familiarize themselves with the tools that are most relevant to their projects.
 
@@ -106,7 +111,6 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
     * Search
       * [elasticsearch](https://www.elastic.co/)
       * [solr](http://lucene.apache.org/solr/)
-      * [Haystack](http://haystacksearch.org/)
   * Frontend
     * Vizualization
       * [D3.js](https://d3js.org/)
