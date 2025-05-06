@@ -147,7 +147,7 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
   * [GIANT Version 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030827/)
   * Point of Contact in Lab: Zhicheng Pan, Aaron Wong (developer)
 * [Module detection](https://humanbase.readthedocs.io/en/latest/modules.html): Community detection to find cohesive gene clusters from a provided gene list and a selected relevant tissue. Genes within a cluster share local network neighborhoods and together form a cohesive, specific functional module. Module detection enables systematic association of genes - even functionally uncharacterized genes - to specific processes and phenotypes represented in the detected modules. Functional modules are identified with tissue-specific functional networks, which predict gene interactions from massive data collections. Thus the discovered modules potentially capture higher-order tissue-specific function.
-* Tapioca: A novel framework for predicting protein-protein interactions from thermal proximity coaggregation data. Created in collaboration with Cristea Lab at Princeton. 
+* [Tapioca](https://www.nature.com/articles/s41592-024-02179-9): A novel framework for predicting protein-protein interactions from thermal proximity coaggregation data. Created in collaboration with Cristea Lab at Princeton. 
   * Point of Contact in Lab: Tavis Reed (developer)
 
 
