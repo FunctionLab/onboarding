@@ -133,7 +133,7 @@ The Troyanskaya lab makes extensive use of the following technologies. New lab m
   * Point of Contact in Lab: Chris Park (developer), Tess Marvin (frequent user), Aviya Litman (frequent user)
 * [Expecto](https://www.nature.com/articles/s41588-018-0160-6): a framework for ab initio sequence-based prediction of mutation gene expression effects and disease risks at tissue-specific level. 
   * Point of Contact in Lab: Ksenia Sokolova (frequent user)
-* [CLEVER](https://humanbase.readthedocs.io/en/latest/clever.html): A modular deep-learning based framework for predicting cell-type-specific gene expression directly from DNA sequence.
+* [ExpectoSC](https://humanbase.readthedocs.io/en/latest/clever.html): A modular deep-learning based framework for predicting cell-type-specific gene expression directly from DNA sequence.
   * Point of Contact in Lab: Ksenia Sokolova (developer)
 * [Sei](https://www.nature.com/articles/s41588-022-01102-2): A framework for integrating human genetics data with sequence information to discover the regulatory basis of traits and diseases. Sei learns a vocabulary of regulatory activities, called sequence classes, using a deep learning model that predicts 21,907 chromatin profiles across >1,300 cell lines and tissues. Sequence classes provide a global classification and quantification of sequence and variant effects based on diverse regulatory activities, such as cell type-specific enhancer functions. 
   * Point of Contact in Lab: Kathy Chen (developer)
