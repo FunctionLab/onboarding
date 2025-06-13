@@ -47,6 +47,9 @@ Contacts: Aviya, Ksenia, Tess and Yun
 
 These 15-minute individual meetings are typically on the same day as lab meeting. Usually, Princeton folks have their meetings when lab meeting is at Flatiron and vice versa for Simons folks. Meeting details will be updated on the [FunctionLab Google Calendar](https://calendar.google.com/calendar/embed?src=a0qlpr9koc8a3rgl6opq97hbl0%40group.calendar.google.com&ctz=America%2FNew_York).
 
+## Conference travel policy
+[This document](https://docs.google.com/document/d/1z5UATZJ-yE8S9gmQiABVd_ZQKWJcPY3lzE-ztuccXzU/edit?tab=t.0) describes the current conference travel policy for the Troy Lab and PPH postdocs
+
 ## Servers
 
 ### Princeton
